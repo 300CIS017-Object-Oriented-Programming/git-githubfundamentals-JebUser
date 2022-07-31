@@ -3,7 +3,9 @@
 ## Documento sobre github
 ###### Nuevo documento
 **Este es el primer documento en markdown**
+
 Aqui se supone que debe haber algo de texto, pero por ahora no hay...
+
 Trabajo terminado :technologist:	
 
 
